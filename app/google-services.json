@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410509039450",
+    "project_id": "fodo-db90b",
+    "storage_bucket": "fodo-db90b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410509039450:android:09475eb24a7cc9c417c563",
+        "android_client_info": {
+          "package_name": "com.example.fodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410509039450-pq8kcchol2sedvnnnftkeqr86j3rs136.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXwKzwbBPyCFNIkYZoqgk15U-joY-5LMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410509039450-pq8kcchol2sedvnnnftkeqr86j3rs136.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
